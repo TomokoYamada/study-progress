@@ -13,3 +13,7 @@ __pycache__/
 # ログ・Macの管理ファイル
 *.log
 .DS_Store
+
+# Macの実設定は手元だけで管理し、見本のみ公開する
+macos/*.plist
+!macos/*.example.plist
